@@ -1,6 +1,6 @@
 # 🤷‍♂️ maybe.js
 
-Can't decide wether to use `true` or `false`? Fear no more! Use maybe.js.
+Can't decide whether to use `true` or `false`? Fear no more! Use maybe.js.
 
 With maybe.js you can do this:
 
